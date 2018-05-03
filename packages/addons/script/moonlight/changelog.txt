@@ -1,3 +1,7 @@
+110
+- updated moonlight-embedded-1d63640 2.4.6
+- update to moonlight-29f4511
+
 109
 - updated moonlight-embedded and moonlight-common-c
 
